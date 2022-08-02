@@ -5,7 +5,8 @@
 <p>So in this project i use random INTEGERS to act as Sensor data and i do this because i the unavailability of needed parts.</p>
 
 I do these things to reach the final result: 
-- Create a database to store sensor data in it.
+- Create a database to store sensor data in it (i use freeMySqlHosting to create mysql Database).<br>
+<a href="https://ibb.co/hdzP98q"><img src="https://i.ibb.co/hdzP98q/image.png" alt="image" border="0"></a>
 - Create a website (i use 000webhost hosting).
 - Create the index.html (Javascript code incuded).
 - Create the PHP file which uses the GET method to get data from another page.
