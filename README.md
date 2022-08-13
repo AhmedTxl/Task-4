@@ -1,4 +1,4 @@
-<h1>Sensor Data Grapper Via Website</h1>
+<h1>Sensor Data Grabber Via Website</h1>
 
 <h2>An Implementaion of website that take data from sensor and store it in the database</h2>
 
